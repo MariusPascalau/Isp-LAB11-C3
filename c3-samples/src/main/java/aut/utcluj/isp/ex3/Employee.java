@@ -7,7 +7,7 @@ public class Employee {
     private String firstName;
     private String lastName;
     private Double salary;
-    private String cnp;
+    private String asdasdp;
 
     public Employee(String firstName, String lastName, Double salary, String cnp) {
         throw new UnsupportedOperationException("Not supported yet.");
